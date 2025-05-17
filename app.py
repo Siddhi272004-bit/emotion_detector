@@ -52,7 +52,6 @@ def detect_emotion():
             break
 
     cap.release()
-
 # Streamlit Button to Start Webcam
 if st.button("Start Emotion Detection"):
     detect_emotion()
