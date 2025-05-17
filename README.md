@@ -3,7 +3,7 @@
 This is a real-time emotion detection web app that uses OpenCV and Streamlit to detect emotions like happiness, sadness, and surprise from a webcam feed.
 
 ## 🚀 Live Demo  
-🔗 [Emotion Detector](https://emotiondetector-fhy7ur64km2ptnqwnbfhvt.streamlit.app/)  
+🔗 [Emotion Detector](https://emotiondetector-mqtpfjzkzpd8yjzbi5eii6.streamlit.app/)  
 
 ## 🛠 Features  
 - 📷 Detects faces using OpenCV  
